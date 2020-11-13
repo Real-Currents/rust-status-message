@@ -22,5 +22,7 @@
     "url": "https://github.com/near-examples/rust-status-message/issues"
   },
   "homepage": "https://github.com/near-examples/rust-status-message#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "near-cli": "^1.3.1"
+  }
 }
